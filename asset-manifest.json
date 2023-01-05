@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/score-board-context-api-react/static/css/main.14b5f2a3.css",
+    "main.js": "/score-board-context-api-react/static/js/main.7ce90ec7.js",
+    "index.html": "/score-board-context-api-react/index.html",
+    "main.14b5f2a3.css.map": "/score-board-context-api-react/static/css/main.14b5f2a3.css.map",
+    "main.7ce90ec7.js.map": "/score-board-context-api-react/static/js/main.7ce90ec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b5f2a3.css",
+    "static/js/main.7ce90ec7.js"
+  ]
+}
