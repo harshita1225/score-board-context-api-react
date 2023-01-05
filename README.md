@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: []()
+- Live Site URL: [https://harshita1225.github.io/score-board-context-api-react/](https://harshita1225.github.io/score-board-context-api-react/)
 
 ### In this exercise, we practice how to manage global state by using the react hook `useContext`. See the reference image below:
 
